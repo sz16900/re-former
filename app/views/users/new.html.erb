@@ -21,6 +21,13 @@
 <%= submit_tag "Submit" %>
 <% end %> -->
 
+
+<% if @user.errors.any? %>
+<%= @user.errors.full_messages %>
+<% end %>
+
+<br><br>
+
 <%= form_for @user do |f| %>
 <div class="field">
   <%= f.label "Your username here:" %><br>
