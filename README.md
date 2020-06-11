@@ -34,10 +34,10 @@ When you have installed Ruby on your computer, clone the project. You can do thi
 
 ## Running Server
 
-* Go to main folder: cd re-former
-* On terminal, type rails server 
-* Go ahead and open up your favorite Browser and type address prompted by termial (i.e: localhost:3000)
-* Pro tip: If you want to checkout the list of users, go ahead and type localhost:3000/users in your Browser search bar
+* Go to main folder: cd re-former.
+* On the terminal, type rails server.
+* Go ahead and open up your favorite Browser and type address prompted by the terminal (i.e: localhost:3000).
+* Pro tip: If you want to check out the list of users, go ahead and type localhost:3000/users in your Browser search bar.
 
 
 ---
